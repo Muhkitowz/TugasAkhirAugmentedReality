@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pubg Male Model
+* source:	https://sketchfab.com/3d-models/pubg-male-model-d45092e3358943c29c7d7f79ceffb0d0
+* author:	David Campbell (https://sketchfab.com/david-campbell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pubg Male Model" (https://sketchfab.com/3d-models/pubg-male-model-d45092e3358943c29c7d7f79ceffb0d0) by David Campbell (https://sketchfab.com/david-campbell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

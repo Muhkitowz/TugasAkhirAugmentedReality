@@ -1,0 +1,11 @@
+Model Information:
+* title:	PUBG Mobile scOut OP Character
+* source:	https://sketchfab.com/3d-models/pubg-mobile-scout-op-character-65dd85baf1fd40d8b57ebd9da4a440a3
+* author:	DFLEX (https://sketchfab.com/DFLEX)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PUBG Mobile scOut OP Character" (https://sketchfab.com/3d-models/pubg-mobile-scout-op-character-65dd85baf1fd40d8b57ebd9da4a440a3) by DFLEX (https://sketchfab.com/DFLEX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
